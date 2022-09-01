@@ -9,7 +9,7 @@
   grid-auto-flow: column;
   width: 100%;
   justify-content: space-between;
-  border-bottom: 1px #000000 solid;
+  border-bottom: 1px #DBDBDB solid;
   padding: 12px 17% 7px;
   font-family: "Poppins";
   position: fixed;
@@ -65,7 +65,7 @@
   grid-auto-flow: column;
   overflow-x: auto;
   width: 100%;
-  border: 1px #000000 solid;
+  border: 1px #DBDBDB solid;
   border-radius: 7px;
 }
 .container .post-container .story-container__list {
@@ -98,7 +98,7 @@
 .container .post-container .post-list {
   display: grid;
   grid-auto-flow: row;
-  border: 1px #000000 solid;
+  border: 1px #DBDBDB solid;
   border-radius: 7px;
   margin-top: 18px;
 }
@@ -169,7 +169,7 @@
   display: grid;
   grid-auto-flow: column;
   grid-template-columns: 9% 80% 11%;
-  border-top: 1px #000000 solid;
+  border-top: 1px #DBDBDB solid;
 }
 .container .post-container .post-list__comment__icon {
   font-size: 25px;
